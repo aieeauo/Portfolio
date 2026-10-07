@@ -29,7 +29,7 @@ Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── resume.pdf
+├── Llaguno_Anniejel_CV.pdf
 └── README.md
 ```
 
