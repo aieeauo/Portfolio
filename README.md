@@ -70,13 +70,6 @@ git commit -m "Describe the change"
 git push
 ```
 
-## Customization
-
-- **Links:** GitHub and live-demo links for the projects are not shown yet. When they are available, add buttons inside the project cards in `index.html`, and a GitHub row in the Contact list.
-- **Open Graph URL:** after deployment, add the live URL to an `og:url` meta tag in `index.html`.
-- **Colors:** edit the CSS variables at the top of `style.css`.
-- **Content:** only list skills, projects, and certifications that can be discussed in an interview.
-
 ## Contact
 
 Anniejel D. Llaguno · anniejeldejesusllaguno@gmail.com · [LinkedIn](https://www.linkedin.com/in/anniejel-llaguno-654208299)
